@@ -139,11 +139,8 @@ Meu objetivo é continuar evoluindo como desenvolvedor, fortalecendo principalme
 
 ## 🤝 Vamos conversar?
 
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=reishenrique225@gmail.com&su=Contato%20via%20GitHub)
 
 ---
 
